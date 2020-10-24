@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286870885593",
+    "firebase_url": "https://proyectohabilidadesblandas.firebaseio.com",
+    "project_id": "proyectohabilidadesblandas",
+    "storage_bucket": "proyectohabilidadesblandas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286870885593:android:55050631dda9d82613dac8",
+        "android_client_info": {
+          "package_name": "com.example.proyectohabilidadesblandas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286870885593-hfvuhl1icujvu7tnvnl365g8m65k99un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectohabilidadesblandas",
+            "certificate_hash": "8afcd275e93d6257218201ff4af2cb5ff08df49c"
+          }
+        },
+        {
+          "client_id": "286870885593-q4v3i8on2nh7iuaf6avdie84klau6t6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAby8p6L5eofJuqPN0VvLGtplRQLLtVQqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286870885593-q4v3i8on2nh7iuaf6avdie84klau6t6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
